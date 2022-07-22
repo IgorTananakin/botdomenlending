@@ -1,0 +1,279 @@
+Array
+(
+    [update_id] => 287323873
+    [message] => Array
+        (
+            [message_id] => 23925
+            [from] => Array
+                (
+                    [id] => 2119437597
+                    [is_bot] => 
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 2119437597
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [type] => private
+                )
+
+            [date] => 1652348165
+            [text] => Назад
+        )
+
+)
+
+Array
+(
+    [update_id] => 287323874
+    [message] => Array
+        (
+            [message_id] => 23928
+            [from] => Array
+                (
+                    [id] => 2119437597
+                    [is_bot] => 
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 2119437597
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [type] => private
+                )
+
+            [date] => 1652348168
+            [text] => Удалить по поиску
+        )
+
+)
+
+Array
+(
+    [update_id] => 287323875
+    [message] => Array
+        (
+            [message_id] => 23930
+            [from] => Array
+                (
+                    [id] => 2119437597
+                    [is_bot] => 
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 2119437597
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [type] => private
+                )
+
+            [date] => 1652348175
+            [text] => https://123
+        )
+
+)
+
+Array
+(
+    [update_id] => 287323876
+    [message] => Array
+        (
+            [message_id] => 23931
+            [from] => Array
+                (
+                    [id] => 2119437597
+                    [is_bot] => 
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 2119437597
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [type] => private
+                )
+
+            [date] => 1652348231
+            [text] => Назад
+        )
+
+)
+
+Array
+(
+    [update_id] => 287323877
+    [message] => Array
+        (
+            [message_id] => 23934
+            [from] => Array
+                (
+                    [id] => 2119437597
+                    [is_bot] => 
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 2119437597
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [type] => private
+                )
+
+            [date] => 1652348233
+            [text] => Удалить по поиску
+        )
+
+)
+
+Array
+(
+    [update_id] => 287323878
+    [message] => Array
+        (
+            [message_id] => 23936
+            [from] => Array
+                (
+                    [id] => 2119437597
+                    [is_bot] => 
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 2119437597
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [type] => private
+                )
+
+            [date] => 1652348253
+            [text] => https://123
+        )
+
+)
+
+Array
+(
+    [update_id] => 287323879
+    [message] => Array
+        (
+            [message_id] => 23937
+            [from] => Array
+                (
+                    [id] => 2119437597
+                    [is_bot] => 
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 2119437597
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [type] => private
+                )
+
+            [date] => 1652348310
+            [text] => Назад
+        )
+
+)
+
+Array
+(
+    [update_id] => 287323880
+    [message] => Array
+        (
+            [message_id] => 23940
+            [from] => Array
+                (
+                    [id] => 2119437597
+                    [is_bot] => 
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 2119437597
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [type] => private
+                )
+
+            [date] => 1652348313
+            [text] => Удалить по поиску
+        )
+
+)
+
+Array
+(
+    [update_id] => 287323881
+    [message] => Array
+        (
+            [message_id] => 23942
+            [from] => Array
+                (
+                    [id] => 2119437597
+                    [is_bot] => 
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [language_code] => ru
+                )
+
+            [chat] => Array
+                (
+                    [id] => 2119437597
+                    [first_name] => Andrei
+                    [last_name] => Provotorov
+                    [username] => ProvotorOFF96
+                    [type] => private
+                )
+
+            [date] => 1652348320
+            [text] => https://123
+        )
+
+)
+
